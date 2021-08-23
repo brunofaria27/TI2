@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\T-Gamer\Desktop\Segundo Período\Materias\Trabalho Interdisciplinar ll\.metadata\.plugins\org.eclipse.jdt.core
-1057428808.index
-2767125166.index
-1575942107.index
-2124079246.index
