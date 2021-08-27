@@ -10,7 +10,7 @@ public class Principal {
 
 		
 		//Inserir um elemento na tabela
-		Usuario usuario = new Usuario(11, "ronaldinho", "ronaldinho",'M');
+		Usuario usuario = new Usuario(4, "Gustavo", "123456",'M');
 		if(dao.inserirUsuario(usuario) == true) {
 			System.out.println("Inserção com sucesso -> " + usuario.toString());
 		}
@@ -23,7 +23,7 @@ public class Principal {
 		}
 
 		//Atualizar usuário
-		usuario.setSenha("nova senha");
+		usuario.setSenha("gay212");
 		dao.atualizarUsuario(usuario);
 
 		//Mostrar usuários do sexo masculino
@@ -34,7 +34,7 @@ public class Principal {
 		}
 		
 		//Excluir usuário
-		dao.excluirUsuario(usuario.getCodigo());
+// 	      dao.excluirUsuario(usuario.getCodigo());
 		
 		//Mostrar usuários
 		usuarios = dao.getUsuarios();
