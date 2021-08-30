@@ -11,3 +11,4 @@ Arquivos e exercicios de TI2, durante o segundo período da faculdade.
 - `Exerc2:` Dados feitos por mim, PostgreSQL integrado com Spark para controlar produtos de uma empresa e estoque por terminal.
 - `maven.demo:` Exemplo de Projeto Maven.
 - `webservice:` Exemplo de Spark nas aulas de TI2, arrumando e integrando com Eclipse.
+- `Exerc2:` Integração Spark com Banco de Dados e HTML, para a introdução ao assunto, prática e estudo.
